@@ -23,5 +23,4 @@ AI-powered learning assistant built with React and Gemini API.
 
 ## Live Demo
 
-[https://YOUR-VERCEL-URL.vercel.app](https://explain-myl0c73dg-nishtha2405s-projects.vercel.app/)
-
+[https://YOUR-VERCEL-URL.vercel.app](https://explain-ai-nu.vercel.app/)]
